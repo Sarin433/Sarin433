@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarin433
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Python with tensorflow
+- 🌱 I’m currently learning Web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
