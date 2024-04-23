@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sarin433
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning Web developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @Sarin433. You can call me Sarin
+👀 I’m interested in CI/ML/AI and Web development.
+🌱 I’m currently learning Web developer
+
+- Give me some coffee -
 
 <!---
 Sarin433/Sarin433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
