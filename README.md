@@ -1,6 +1,6 @@
-👋 Hi, I’m @Sarin433. You can call me Sarin
-👀 I’m interested in CI/ML/AI and Web development.
-🌱 I’m currently learning Web developer
+-👋 Hi, I’m @Sarin433. You can call me Sarin
+- 👀 I’m interested in CI/ML/AI and Web development.
+- 🌱 I’m currently learning Web developer
 
 - Give me some coffee -
 
