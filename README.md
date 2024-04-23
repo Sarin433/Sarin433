@@ -1,4 +1,4 @@
--👋 Hi, I’m @Sarin433. You can call me Sarin
+👋 Hi, I’m @Sarin433. 
 - 👀 I’m interested in CI/ML/AI and Web development.
 - 🌱 I’m currently learning Web developer
 
