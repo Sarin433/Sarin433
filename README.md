@@ -1,4 +1,6 @@
-<img src="./img/img.png" width="480" alt="Alt text">
+<div align="center">
+	<img src="./img/img.png" width="360" alt="Alt text" />
+</div>
 
 # 👋 Hello, I'm Sarin
 
