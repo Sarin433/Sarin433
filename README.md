@@ -1,4 +1,4 @@
-![alt text](./img/img.png)
+<img src="./img/img.png" width="480" alt="Alt text">
 
 # 👋 Hello, I'm Sarin
 
