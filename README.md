@@ -1,4 +1,4 @@
-![alt text](./img/img.jpg)
+![alt text](./img/img.png)
 
 # 👋 Hello, I'm Sarin
 
