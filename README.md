@@ -2,20 +2,30 @@
 	<img src="./img/img.png" width="360" alt="Alt text" />
 </div>
 
-# 👋 Hello, I'm Sarin
+# Hello, I'm Sarin
 
 Welcome to my GitHub profile!
 
-## 🔬 Research Interests
+## About Me
 
-- 🤖 **Artificial Intelligence (AI)** & **Computational Intelligence (CI)**
-- 🌱 Currently exploring **metaheuristic algorithms** for path-finding and optimization problems
+I began my career as an **Environmental Engineer** in the civil engineering sector, specializing in road construction and site management. After gaining valuable industry experience, I decided to pursue a career transition aligned with my passion for technology.
+
+This led me to enroll in a **Master's program in Computer Engineering**, where I discovered my enthusiasm for Artificial Intelligence. My interest was initially sparked through various online resources—videos and articles explaining how AI works, its applications, and its transformative potential.
+
+Inspired by this knowledge, I dove deeper into the field and focused my research on **metaheuristic algorithms** during my graduate studies.
+
+---
+
+## Research Interests
+
+- **Artificial Intelligence (AI)** & **Computational Intelligence (CI)**
+- Currently exploring **metaheuristic algorithms** for path-finding and optimization problems
 
 I aspire to contribute research that benefits the broader community.
 
 ---
 
-## 🎯 2026 Goals
+## 2026 Goals
 
 **Pursuing a Doctoral Degree**
 
@@ -26,23 +36,13 @@ I am currently preparing my application for a Ph.D. program with the following o
 
 ---
 
-## 👨‍💻 About Me
-
-I began my career as an **Environmental Engineer** in the civil engineering sector, specializing in road construction and site management. After gaining valuable industry experience, I decided to pursue a career transition aligned with my passion for technology.
-
-This led me to enroll in a **Master's program in Computer Engineering**, where I discovered my enthusiasm for Artificial Intelligence. My interest was initially sparked through various online resources—videos and articles explaining how AI works, its applications, and its transformative potential.
-
-Inspired by this knowledge, I dove deeper into the field and focused my research on **metaheuristic algorithms** during my graduate studies.
-
----
-
-## 🚀 Vision
+## Vision
 
 I hope my work inspires others to explore metaheuristic approaches for their projects and prototypes. I am committed to continuous learning and research in optimization algorithms and computational intelligence.
 
 ---
 
-📫 *Feel free to connect or explore my repositories!*
+*Feel free to connect or explore my repositories!*
 
 <!---
 Sarin433/Sarin433 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
